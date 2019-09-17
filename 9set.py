@@ -1,3 +1,4 @@
+# coding=utf-8
 colores = {"Rojo", "Azul", "Negro"}
 
 print(colores)

@@ -1,3 +1,4 @@
+# coding=utf-8
 #Creamos una función de esta manera:
 def hola():
     print("Hello World!")

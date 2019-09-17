@@ -1,3 +1,4 @@
+# coding=utf-8
 #Las mejores páginas sobre documentación de librerias son:
 # https://docs.python.org/3/library/index.html#library-index
 # https://pypi.org/

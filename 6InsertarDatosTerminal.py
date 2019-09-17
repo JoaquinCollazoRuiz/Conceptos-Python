@@ -1,3 +1,4 @@
+# coding=utf-8
 #input me permite pedirle al usuario que introduza algo y guardarlo en mi variable num1
 num1 = input("Introduce un número: ")
 print(num1) 

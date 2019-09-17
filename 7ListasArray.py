@@ -1,3 +1,4 @@
+# coding=utf-8
 popurri = [1, "A", 2.22, False, [1,2,3,4,5]]
 letras = ["A", "B", "C"]
 numeros = [1,2,3]

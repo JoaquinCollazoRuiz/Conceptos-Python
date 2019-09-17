@@ -1,3 +1,4 @@
+# coding=utf-8
 #Las tuplas son inmutables, no se pueden cambiar
 meses = ("Enero", "Febrero", "Marzo", "...")
 diasSemana = ("Lunes", "Martes", "Miercoles", "...")

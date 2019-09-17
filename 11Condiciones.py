@@ -1,3 +1,4 @@
+# coding=utf-8
 x = 12.0
 y = 23.1
 
@@ -13,10 +14,8 @@ if x== 12.0:
     if y == 23.1:
         print("if2")
 
-if x == 12.0 and y = 23.1:
-    print("Hello World!")
-
 if x > y or x < y:
     print("Good vibes")
 
-
+if x == 12.0 and y == 23.1:
+    print("Hello world!")

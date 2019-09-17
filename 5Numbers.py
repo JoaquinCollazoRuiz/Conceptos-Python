@@ -1,3 +1,4 @@
+# coding=utf-8
 print(2 + 2)
 print(2 - 1)
 print(2 * 4)

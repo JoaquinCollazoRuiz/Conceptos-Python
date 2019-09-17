@@ -1,3 +1,4 @@
+# coding=utf-8
 #Strings
 print("Hello world")
 

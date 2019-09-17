@@ -1,3 +1,4 @@
+# coding=utf-8
 libros = {
     "tipo" : "libro",
     "cantidad" : 1,

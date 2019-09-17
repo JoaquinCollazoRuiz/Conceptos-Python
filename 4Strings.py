@@ -1,3 +1,4 @@
+# coding=utf-8
 algo = "Hello world"
 #dir: me muestra todo lo que soy capaz de hacer con este string
 print(dir(algo))

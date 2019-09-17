@@ -1,3 +1,4 @@
+# coding=utf-8
 letras = ["a","b","c","d"]
 
 #De esta manera devuelvo el array entero
